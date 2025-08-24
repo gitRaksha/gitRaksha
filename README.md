@@ -43,5 +43,5 @@
 ---
 
 ## 🌐 Connect with Me
-- 💼 LinkedIn: https://linkedin.com/in/your-link](https://www.linkedin.com/in/marwen-mekni-7ba9182ab/  
+- 💼 LinkedIn: https://www.linkedin.com/in/marwen-mekni-7ba9182ab/  
 - 📧 Email: mekni0845@gmail.com
