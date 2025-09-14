@@ -30,7 +30,7 @@
 ---
 
 ## 📂 Featured Projects
-- 🔴 **[Smart Vest IoT Project](soon)** → STM32 + LoRa + Sensors for hazardous environments  
+- 🔴 **[Smart Vest IoT Project](https://github.com/gitRaksha/SmartVest_Project.git)** → STM32 + LoRa + Sensors for hazardous environments  
 - 🟢 **[FPGA Traffic Light Controller](soon)** → VHDL simulation in Vivado  
 - 🔵 **[Yocto Quick Build](soon)** → Learning Embedded Linux with Poky and custom layers  
 - 🟡 **[Smart Parking System](soon)** → ESP32, MQTT, Node-RED dashboard  
