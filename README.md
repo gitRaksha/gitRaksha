@@ -21,19 +21,19 @@
 **Embedded Linux**  
 `Yocto` `BitBake` `QEMU` `Cross-compiling`  
 
-**Digital Design**  
-`FPGA` `VHDL` `Vivado` `Zynq`  
-
 **Tools & Other**  
-`Git/GitHub` `Node-RED` `LabVIEW` `Proteus` `MATLAB`  
+`Git/GitHub` `Node-RED` `LabVIEW` `Proteus` `MATLAB` 
+
+**PCB Design**
+`Altium Designer` `KiCad`
 
 ---
 
 ## 📂 Featured Projects
-- 🔴 **[Smart Vest IoT Project](https://github.com/gitRaksha/SmartVest_Project.git)** → STM32 + LoRa + Sensors for hazardous environments
-- 🟡 **[Smart Parking System](https://github.com/gitRaksha/Smart_Parking)** → ESP32, MQTT, Node-RED dashboard  
-- 🟢 **[FPGA Traffic Light Controller](soon)** → VHDL simulation in Vivado  
-- 🔵 **[Yocto Quick Build](soon)** → Learning Embedded Linux with Poky and custom layers  
+- 🔴 **[Smart Vest IoT Project](https://github.com/gitRaksha/SmartVest_Project.git)** → STM32 + LoRa + Sensors for hazardous environments  ![STM32](https://img.shields.io/badge/STM32-Embedded-red)
+- 🟡 **[Smart Parking System](https://github.com/gitRaksha/Smart_Parking)** → ESP32, MQTT, Node-RED dashboard  ![ESP32](https://img.shields.io/badge/ESP32-Embedded-yellow)
+- 🔵 **[Yocto Quick Build](https://github.com/gitRaksha/techleef_series_proj)** → Learning Embedded Linux with Poky and custom layers  ![Yocto](https://img.shields.io/badge/Yocto-Scarthgap-blue)
+- 🟢 **[LabVIEW-workshops](https://github.com/gitRaksha/LabVIEW-workshops)** → NI LabVIEW Learning Workshops    ![LabVIEW](https://img.shields.io/badge/LabVIEW-Industrial-green)
 
 
 ---
