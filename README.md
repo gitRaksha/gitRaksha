@@ -48,10 +48,10 @@
 
 ## 🌐 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/marwen-mekni-7ba9182ab/  
-- 📧 Email: mekni0845@gmail.com
+- 📧 Email: wsmekni@gmail.com
 
 ![Yocto](https://img.shields.io/badge/Yocto-Scarthgap-blue)
 ![STM32](https://img.shields.io/badge/STM32-Embedded-green)
-![FPGA](https://img.shields.io/badge/FPGA-Vivado-orange)
+![PCB](https://img.shields.io/badge/PCB-KiCAD-white)
 ![LoRa](https://img.shields.io/badge/LoRa-IoT-red)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
