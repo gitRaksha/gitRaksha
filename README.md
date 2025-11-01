@@ -9,7 +9,6 @@
 - 🎓 Currently finishing **Electrical Engineering**, specialized in **Embedded Systems, IoT & PCB Design**  
 - ✈️ 11 years in the **Air Force** — roles in Maintenance, Team Leadership, and Technical Documentation  
 - 💻 Hands-on with **STM32**, **ESP32**, **Arduino**, **FPGA (VHDL)**, **Embedded Linux (Yocto)**, **LabVIEW**, and **PCB Design (KiCad, Altium Designer)**  
-- 🧩 Designed and validated custom **4-layer ESP32 boards** integrating sensors, analog front-ends, and power regulation circuits  
 - 🌐 Interested in **IoT**, **Industrial Automation**, **Smart Devices**, and **Embedded AI**  
 - 📡 Project experience in **LoRa communication**, **Smart Vest**, **Parking IoT**, **Smart Home Access**, and **Machine Health Analysis**
 - 📋 Project Management: **PMI Ready Certified** – planning, risk analysis, and process management (PMBOK framework)
