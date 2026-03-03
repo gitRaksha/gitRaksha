@@ -1,6 +1,6 @@
 # Hi, I’m Marwen Mekni  
 
-🔧 **Embedded Systems Engineer in training** | 11 years experience in the Tunisian Air Force ⚡ | Passionate about **IoT, Embedded Linux, and Industrial Systems**.  
+**Embedded Systems Engineer in training** | 11 years experience in the Tunisian Air Force | Passionate about **IoT, Embedded Linux, and Industrial Systems**.  
 
 ---
 
