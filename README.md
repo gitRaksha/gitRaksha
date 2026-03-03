@@ -1,10 +1,10 @@
-# 👋 Hi, I’m Marwen Mekni  
+# Hi, I’m Marwen Mekni  
 
 🔧 **Embedded Systems Engineer in training** | 11 years experience in the Tunisian Air Force ⚡ | Passionate about **IoT, Embedded Linux, and Industrial Systems**.  
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Currently finishing **Electrical Engineering**, specialized in **Embedded Systems, IoT & PCB Design**  
 - ✈️ 11 years in the **Air Force** — roles in Maintenance, Team Leadership, and Technical Documentation  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Embedded & IoT**  
 `C` `C++` `Python` `Arduino` `STM32 (HAL & CubeMX)` `ESP32 (WiFi/MQTT)` `LoRa SX127x`  
